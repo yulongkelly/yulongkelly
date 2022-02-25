@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![website](./img/website.svg)](https://yulongkelly.github.io/mywebsite-2021/)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/yulongkelly-wu/#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/yulongkelly-wu/#gh-dark-mode-only)
 
