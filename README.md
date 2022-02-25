@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Kelly Wu. I am a third year Computer Science student at University of Waterloo in Canada. I am currently working in Arista Networks as a Platform Engineer Intern.
 
 <!--
 **yulongkelly/yulongkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
